@@ -21,6 +21,3 @@ Skills
   * Javascript
   * ReactJS
 
-Honour and Awards
-======
-* 
