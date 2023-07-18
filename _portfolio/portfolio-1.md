@@ -1,7 +1,7 @@
 ---
 title: "Tic Tac Toe"
 excerpt: "
-Tic Tac Toe is an engaging two-player game designed for self-amusement and strategic fun<br/>[In Progress]<br/><img src='/images/tic-tac-toe.png'>"
+Tic Tac Toe is an engaging two-player game designed for self-amusement and strategic fun<br/><img src='/images/tic-tac-toe.png'>"
 collection: portfolio
 ---
 

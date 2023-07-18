@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Sc in Physcics, Chemistry and Mathematics, 2018
+* B.Sc in Physics, Chemistry and Mathematics, 2018
   
 Skills
 ======
